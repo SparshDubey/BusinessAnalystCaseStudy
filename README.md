@@ -4,3 +4,4 @@ An insurance company X has been doing the process of getting customers for their
 
 Document Includes:\
 BRD, FRD, Use Case Diagram, Use Stories, Wireframes and Prototypes (Using Axure RP).\
+As-Is, To-Be process flow to be added.
