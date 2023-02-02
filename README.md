@@ -4,4 +4,3 @@ An insurance company X has been doing the process of getting customers for their
 
 Document Includes:\
 BRD, FRD, Use Case Diagram, Use Stories, Wireframes and Prototypes (Using Axure RP).\
-Business Process Diagrams are yet to be uploaded.
